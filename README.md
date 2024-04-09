@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hodaifa</h1>
 <h3 align="center">I have been passionate about computers since childhood. I love programming, creating web sites and solving problems and challenges. I have a long experience in troubleshooting GNU/Linux as I have used it as my main operating system for a long time. I am fond of the idea of free and open source software and the global and collective development of software, and I encourage widespread of technology free of charge to all without monopolizing it.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xb-16&label=Profile%20views&color=0e75b6&style=flat" alt="xb-16" /> </p>
-
 - 🌱 I’m currently learning **LAMP Stack**
 
 - 📫 How to reach me **xbhackermrc@gmail.com**
