@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hodaifa</h1>
-<h3 align="center">I have been passionate about computers since childhood. I love programming, creating web sites and solving problems and challenges. I have a long experience in troubleshooting GNU/Linux as I have used it as my main operating system for a long time. I am fond of the idea of free and open source software and the global and collective development of software, and I encourage the diffusion of technology free of charge to all without monopolizing it.</h3>
+<h3 align="center">I have been passionate about computers since childhood. I love programming, creating web sites and solving problems and challenges. I have a long experience in troubleshooting GNU/Linux as I have used it as my main operating system for a long time. I am fond of the idea of free and open source software and the global and collective development of software, and I encourage widespread of technology free of charge to all without monopolizing it.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xb-16&label=Profile%20views&color=0e75b6&style=flat" alt="xb-16" /> </p>
 
@@ -9,12 +9,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/un_kown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/un_kown" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/%d8%ad%d8%b0%d9%8a%d9%81%d8%a9-%d8%a3%d8%ad%d9%85%d8%af-3479b6297/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%d8%ad%d8%b0%d9%8a%d9%81%d8%a9-%d8%a3%d8%ad%d9%85%d8%af-3479b6297/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/24086384/%d8%ad%d8%b0%d9%8a%d9%81%d8%a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/24086384/%d8%ad%d8%b0%d9%8a%d9%81%d8%a9" height="30" width="40" /></a>
-<a href="https://fb.com/https://web.facebook.com/un.kown.5249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://web.facebook.com/un.kown.5249" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@user-qj3kj7xe2c/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@user-qj3kj7xe2c/videos" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/xbhackermrc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/xbhackermrc" height="30" width="40" /></a>
+<a href="https://codepen.io/un_kown" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="un_kown" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/%d8%ad%d8%b0%d9%8a%d9%81%d8%a9-%d8%a3%d8%ad%d9%85%d8%af-3479b6297/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="%d8%ad%d8%b0%d9%8a%d9%81%d8%a9-%d8%a3%d8%ad%d9%85%d8%af-3479b6297/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/24086384/%d8%ad%d8%b0%d9%8a%d9%81%d8%a9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24086384/%d8%ad%d8%b0%d9%8a%d9%81%d8%a9" height="30" width="40" /></a>
+<a href="https://fb.com/un.kown.5249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="un.kown.5249" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@user-qj3kj7xe2c/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@user-qj3kj7xe2c/videos" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/xbhackermrc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="xbhackermrc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
