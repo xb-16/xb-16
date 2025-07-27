@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed</h1>
 <h3 align="center">I have been passionate about computers since childhood. I love programming, creating web sites and solving problems and challenges. I have a long experience in troubleshooting GNU/Linux as I have used it as my main operating system for a long time. I am fond of the idea of free and open source software and the global and collective development of software, and I encourage widespread of technology free of charge to all without monopolizing it.</h3>
 
-- 🌱 I’m currently learning **React & Laravel**
+- 🌱 I’m Full Stack Developer, **React & Laravel**
 
 - 📫 How to reach me **xbhackermrc@gmail.com**
 
